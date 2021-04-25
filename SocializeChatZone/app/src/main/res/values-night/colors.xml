@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+<!--    <color name="colorPrimary">#121212</color>-->
+    <color name="colorPrimaryDark">#3700B3</color>
+<!--    <color name="colorAccent">#03DAC5</color>-->
+    <color name="colorAccent">#3f967b</color>
+<!--    <color name="messageReceivedByUserCardColor">#3f997c</color>-->
+    <!--<color name="messageReceived">#27ab81</color>-->
+    <color name="messageReceived">#3f997c</color>
+    <color name="messageSent">#454545</color>
+    <color name="messagesTextColor">#7d7d7d</color>
+    <color name="red">#e0412f</color>
+    <color name="lightRed">#ff6666</color>
+    <color name="lightBlue">#46a4f0</color>
+    <color name="grey">#424242</color>
+    <color name="dateTVTextColor">@android:color/white</color>
+    <color name="backButtonColor">@android:color/white</color>
+    <color name="chatBarTextColor">#ffffff</color>
+    <color name="chatBarTextHintColor">@android:color/secondary_text_dark</color>
+    <color name="sendMessageButton">#27ab81</color>
+    <color name="darkModeColor">#121212</color>
+    <color name="tabsTextColor">#969696</color>
+    <color name="selectedTabColor">#dfdfdf</color>
+    <color name="chatActivityFriendNameColor">#dedede</color>
+    <color name="chatActivityToolbarBackIconColor">#dedede</color>
+    <color name="chatListItemHolderBGColor">#1a1a1a</color>
+    <color name="chatListItemHolderTextColor">#dfdfdf</color>
+    <color name="constraintLayoutBGColor">#121212</color>
+    <color name="searchDrawableColor">#dfdfdf</color>
+    <color name="darkModeButtonColor">#4f4f4f</color>
+    <color name="onlineVia">@color/tabsTextColor</color>
+    <color name="checkBoxColor">@android:color/white</color>
+    <color name="seenTimeTVColors">#757575</color>
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Socialize Chat Zone</string>
+    <string name="loginToSocialize">Log In to Chat Zone</string>
+    <string name="saveCredentials">Save credentials for faster login</string>
+    <string name="logInButtonText">Log In</string>
+    <string name="signUpText">Don\'t have an account? Sign Up Now!</string>
+    <string name="logInText">Already have an account? Log In!</string>
+    <string name="invalidCredentials">Invalid username or password</string>
+    <string name="registerWithSocialize">Register With Socialize</string>
+
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="hintPhone">Phone (Optional)</string>
+
+    <string name="register">Register</string>
+    <string name="accountCreated">Your account has been created successfully!</string>
+
+    <string name="usersTableName">users</string>
+    <string name="messagesTableName">messages</string>
+
+    <string name="chatsTab">Chats</string>
+    <string name="onlineTab">Online</string>
+    <string name="settingsTab">Settings</string>
+
+    <string name="friends">friends</string>
+    <string name="noFriendsFound">You currently have not added any friends</string>
+    <string name="noFriendsOnline">None of your friends are currently online</string>
+    <string name="onlineStatus">online</string>
+    <string name="friendsCurrentlyOnline">Friends Currently Online</string>
+    <string name="sendMessage">Send</string>
+    <string name="chatTableName">chats</string>
+    <string name="chatLogs">chatLogs</string>
+    <string name="chats">chats</string>
+    <string name="lastMessageSeenKey">lastMessageSeenKey</string>
+    <string name="chatHistoryEmpty">It\'s pretty lonely up here.</string>
+    <string name="pressButtonToStartChat">Click the + button to start a conversation with your friends!</string>
+    <string name="fullName">fullName</string>
+    <string name="onlineViaSocialize">via Socialize</string>
+    <string name="onlineViaChatZone">via Chat Zone</string>
+    <string name="noResultsFound">No results found for \'%1$s\'</string>
+    <string name="searchForFriends">Search for friends…</string>
+    <string name="findNewFriends">Find more people!</string>
+    <string name="logOutButtonText">Log Out</string>
+    <string name="switchAppButtonText">Open Socialize</string>
+    <string name="socializeAppPackageName">com.example.newlogin</string>
+    <string name="mainAppNotFound">Socialize not installed on this device!</string>
+    <string name="confirmLogoutTitle">Confirm Logout?</string>
+    <string name="confirmLogoutMessage">You can always log in on this device later</string>
+    <string name="imageURL">imageURL</string>
+    <string name="seen">Seen</string>
+    <string name="sent">Sent</string>
+    <string name="delivered">Delivered</string>
+    <string name="newChatBeginning">This is the beginning of your chat with %1$s.</string>
+    <string name="sayHi">Say Hi!</string>
+    <string name="messageByUser">You: %1$s</string>
+    <string name="messageByFriend">%1$s: %2$s</string>
+    <string name="darkMode">Enable Dark Mode</string>
+</resources>
