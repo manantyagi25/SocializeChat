@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners
+        android:topLeftRadius="@dimen/messageCardCornerRadius"
+        android:topRightRadius="@dimen/messageCardCornerRadius"
+        android:bottomLeftRadius="@dimen/messageCardCornerRadius" />
+
+    <solid
+        android:color="@color/messageSent" />
+
+</shape>
